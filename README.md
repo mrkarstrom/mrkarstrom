@@ -1,16 +1,16 @@
 # mrkarstrom
 ## Hello! Thank you for looking up my profile😎
 
-- 🫢 A fun fact about me: is that I can hold my breath for 4(!) minutes
+- A Fun fact about me is that I can hold my breath for 4(!) minutes
 - 🤓 I'm proud: of taking the MENSA IQ-test and scoring top 1% in Sweden
-- 🍏 I'm currently learning: React, Svelte & Vue!
+- 🍏 I'm currently working in SvelteKit!
 
-- 💻 You can reach me at: 
+- 💻 Reach me at: 
 
 Twitter: https://twitter.com/mrkarstrom 
 
 Github: https://github.com/mrkarstrom 
 
-Homepage: https://yesweb.se 
+Homepage: https://yesweb.se - Currently under development
 
 Mail: magnus@yesweb.se

@@ -43,6 +43,8 @@ My favourite podcast is HTML All The Things - check them out if you’re interes
 <a href="https://www.twitter.com/mrkarstrom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></
 <a href="https://www.youtube.com/c/mrkarstrom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges <b>My GitHub Stats</b>
+### Badges 
+<b>My GitHub Stats</b>
+
 <a href="http://www.github.com/mrkarstrom">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkarstrom&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

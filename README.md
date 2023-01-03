@@ -32,7 +32,8 @@ I’m a passionate husband, dad and software developer - in that order 🌟 I lo
 <a href="https://www.linkedin.com/in/http://linkedin.com/in/maMagnus-karström-011054214" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/mrkarstrom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></
 <a href="https://www.youtube.com/c/mrkarstrom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-### Badges 
+
+### Badges
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/mrkarstrom">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkarstrom&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

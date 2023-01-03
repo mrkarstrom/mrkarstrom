@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I’m a passionate husband, dad and software developer - in that order 🌟 I love problem solving and I actually became a MENSA member in 2017 when I took a supervised IQ-test and got +135 🤓 I love to learn everything about development and software engineering and I’ve always been a science nerd. I have worked as a STEM teacher in high school for 8 years but decided to pursue my career as a software developer early 2021 👨‍💻 My famous podcast is HTML All The Things - check them out if you’re interested in web development ✅
+I’m a passionate husband, dad and software developer - in that order 🌟 
+I love problem solving and I actually became a MENSA member in 2017 
+(I took a supervised IQ-test and got +135 🤓)
+
+I love to learn everything about development and software engineering 
+and I’ve always been a science nerd. 
+I have worked as a STEM teacher in high school for 8 years but decided 
+to pursue my career as a software developer early 2021 👨‍💻 
+My favourite podcast is HTML All The Things - check them out if you’re interested in web development ✅
 
 *   🌍  I'm based in Sweden
 *   🖥️  See my portfolio at [Yesweb.se](http://yesweb.se)

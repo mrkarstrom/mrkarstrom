@@ -15,9 +15,9 @@ to pursue my career as a software developer early 2021 👨‍💻
 My favourite podcast is HTML All The Things - check them out if you’re interested in web development ✅
 
 *   🌍  I'm based in Sweden
-*   🖥️  See my portfolio at [Yesweb.se](http://yesweb.se)
+*   🖥️  See my portfolio at [yesweb.se](http://yesweb.se)
 *   ✉️  You can contact me at [magnus@yesweb.se](mailto:magnus@yesweb.se)
-*   🚀  I'm currently working on [Slowfashion website](http://sfab.vercwl.app/)
+*   🚀  I'm currently working on [Slowfashion website](http://sfab.vercel.app/)
 *   🧠  I'm learning SvelteKit, Svelte and more JavaScript
 *   🤝  I'm open to collaborating on Frontend projects
 

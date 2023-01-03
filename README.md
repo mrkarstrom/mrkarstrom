@@ -16,7 +16,8 @@ My favourite podcast is HTML All The Things - check them out if you’re interes
 
 *   🌍  I'm based in Sweden
 *   🖥️  See my portfolio at [yesweb.se](http://yesweb.se)
-*   ✉️  You can contact me at [magnus@yesweb.se](mailto:magnus@yesweb.se)
+*   🎙  I make Reels for [HTML All The Things](https://www.instagram.com/htmlallthethings/)
+*   ✉️  You can contact me at [magnus@yesweb.se](mailto:magnus@yesweb.se)
 *   🚀  I'm currently working on [Slowfashion website](http://sfab.vercel.app/)
 *   🧠  I'm learning SvelteKit, Svelte and more JavaScript
 *   🤝  I'm open to collaborating on Frontend projects

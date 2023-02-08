@@ -8,19 +8,19 @@ I’m a passionate husband, dad and software developer - in that order 🌟
 I love problem solving and I actually became a MENSA member in 2017 
 (I took a supervised IQ-test and got +135 🤓)
 
-I love to learn everything about development and software engineering 
-and I’ve always been a science nerd. 
-I have worked as a STEM teacher in high school for 8 years but decided 
+I love to learn web development and software engineering 
+and I’ve always been a science geek. 
+I have worked as a STEM teacher at high school level for 8 years but decided 
 to pursue my career as a software developer early 2021 👨‍💻 
 My favourite podcast is HTML All The Things - check them out if you’re interested in web development ✅
 
 *   🌍  I'm based in Sweden
 *   🖥️  See my portfolio at [yesweb.se](http://yesweb.se)
 *   🎙  I make Reels for [HTML All The Things](https://www.instagram.com/htmlallthethings/)
-*   ✉️  You can contact me at [magnus@yesweb.se](mailto:magnus@yesweb.se)
-*   🚀  I'm currently working on [Slowfashion website](http://sfab.vercel.app/)
-*   🧠  I'm learning SvelteKit, Svelte and more JavaScript
+*   🚀  I'm currently working on [Slowfashion website](https://sfab.vercel.app/)
+*   🧠  I'm learning React, SvelteKit, Svelte and more JavaScript
 *   🤝  I'm open to collaborating on Frontend projects
+*   ✉️  You can contact me at [magnus@yesweb.se](mailto:magnus@yesweb.se)
 
 <a href="https://www.twitter.com/mrkarstrom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/mrkarstrom?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 ### Skills 

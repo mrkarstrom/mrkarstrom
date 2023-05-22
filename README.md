@@ -15,7 +15,7 @@ to pursue my career as a software developer early 2021 👨‍💻
 My favourite podcast is HTML All The Things - check them out if you’re interested in web development ✅
 
 *   🌍  I'm based in Sweden
-*   🖥️  See my portfolio at [yesweb.se](http://yesweb.se)
+*   🖥️  See my portfolio at ~~[yesweb.se](http://yesweb.se)~~
 *   🎙  I make Reels for [HTML All The Things](https://www.instagram.com/htmlallthethings/)
 *   🚀  I'm currently working on [Slowfashion website](https://sfab.vercel.app/)
 *   🧠  I'm learning React, SvelteKit, Svelte and more JavaScript

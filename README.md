@@ -20,7 +20,7 @@ My favourite podcast is HTML All The Things - check them out if you’re interes
 *   🚀  I'm currently working on [Slowfashion website](https://sfab.vercel.app/)
 *   🧠  I'm learning React, SvelteKit, Svelte and more JavaScript
 *   🤝  I'm open to collaborating on Frontend projects
-*   ✉️  You can contact me at [mrkarstrom81@gmail.com](mailto:magnus.karstrom@edutechsmart.com)
+*   ✉️  You can contact me at [magnus.karstrom@edutechsmart.com](mailto:magnus.karstrom@edutechsmart.com)
 
 <a href="https://www.twitter.com/mrkarstrom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/mrkarstrom?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 ### Skills 

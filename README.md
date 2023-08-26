@@ -10,14 +10,13 @@ I love problem solving and I actually became a MENSA member in 2017
 
 I love to learn web development and software engineering 
 and I’ve always been a science geek. 
-I have worked as a STEM teacher at high school level for 8 years but decided 
-to pursue my career as a software developer early 2021 👨‍💻 
+I'm working as Fullstack developer at EduTechSmart. 
 My favourite podcast is HTML All The Things - check them out if you’re interested in web development ✅
 
 *   🌍  I'm based in Sweden
 *   🖥️  See my portfolio at ~~[yesweb.se](http://yesweb.se)~~
 *   🎙  I make Reels for [HTML All The Things](https://www.instagram.com/htmlallthethings/)
-*   🚀  I'm currently working on [Slowfashion website](https://sfab.vercel.app/)
+*   🚀  I'm currently contributing to [Slowfashion website](https://sfab.vercel.app/)
 *   🧠  I'm learning React, SvelteKit, Svelte and more JavaScript
 *   🤝  I'm open to collaborating on Frontend projects
 *   ✉️  You can contact me at [magnus.karstrom@edutechsmart.com](mailto:magnus.karstrom@edutechsmart.com)

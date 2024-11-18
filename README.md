@@ -16,7 +16,7 @@ My favourite podcast is HTML All The Things - check them out if you’re interes
 *   🌍  I'm based in Sweden
 *   🖥️  My portfolio page [yesweb.se](http://yesweb.se)
 *   🎙  I have made some reels for [HTML All The Things](https://www.instagram.com/htmlallthethings/)
-*   🚀  I've previously been working full time for 1.5 years at [EduTechSmart Global AB](https://educatesmart.com)
+*   🚀  I've previously been working full time for 1.5 years at [EduTechSmart Global AB](https://edutechsmart.com)
     *   I've also contributed 1.5 years as intern at the amazing [Slowfashion website](https://slowfashion.se)
 *   🧠  I'm learning React, SvelteKit, Svelte and more JavaScript
 *   🤝  I'm currently for a job with the perfect fit

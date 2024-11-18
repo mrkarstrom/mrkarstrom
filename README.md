@@ -10,7 +10,7 @@ I love problem solving and I actually became a MENSA member in 2017
 
 I love to learn web development and software engineering 
 and I’ve always been a science geek. 
-I'm working as Fullstack developer at EduTechSmart. 
+I'm working as freelancer with incoming projects and looking for a good remote full time job. 
 My favourite podcast is HTML All The Things - check them out if you’re interested in web development ✅
 
 *   🌍  I'm based in Sweden

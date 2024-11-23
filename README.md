@@ -18,7 +18,7 @@ My favourite podcast is HTML All The Things - check them out if you’re interes
 *   🎙  I have made some reels for [HTML All The Things](https://www.instagram.com/htmlallthethings/)
 *   🚀  I've previously been working full time for 1.5 years at [EduTechSmart Global AB](https://edutechsmart.com)
     *   I've also contributed 1.5 years as intern at the amazing [Slowfashion website](https://slowfashion.se)
-*   🧠  I'm learning React, SvelteKit, Svelte and more JavaScript
+*   🧠  I'm love to grow my skills daily in frameworks like React, SvelteKit, Svelte but also Vanilla JavaScript, PHP and Java!
 *   🤝  I'm currently for a job with the perfect fit
 *   ✉️  You can contact me at [magnus@yesweb.se](mailto:magnus@yesweb.se)
 

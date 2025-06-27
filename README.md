@@ -4,22 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 ------------------
 
-I’m a passionate husband, dad and software developer - in that order 🌟 
-I love problem solving and I actually became a MENSA member in 2017 
-(I took a supervised IQ-test and got +135 🤓)
+I’m a full time devoted dad and part time software developer and teacher consultant - in that order 🌟 
 
-I love to learn web development and software engineering 
-and I’ve always been a science geek. 
-I'm working as freelancer with incoming projects and looking for a good remote full time job. 
-My favourite podcast is HTML All The Things - check them out if you’re interested in web development ✅
+I love problem solving and I actually became a MENSA member in 2017.
+
+I love to learn web development and software engineering daily and I’ve always been a science geek. 
+I'm currently hired as part time teacher consultant at Comerit AB while taking on freelance projects and looking for a good remote full time job. 
+My favourite podcast is HTML All The Things - Check them out if you’re interested in web development ✅
 
 *   🌍  I'm based in Sweden
-*   🖥️  My portfolio page [yesweb.se](http://yesweb.se)
+*   🖥️  My portfolio page is at [yesweb.se](http://yesweb.se)
 *   🎙  I have made some reels for [HTML All The Things](https://www.instagram.com/htmlallthethings/)
 *   🚀  I've previously been working full time for 1.5 years at [EduTechSmart Global AB](https://edutechsmart.com)
     *   I've also contributed 1.5 years as intern at the amazing [Slowfashion website](https://slowfashion.se)
-*   🧠  I'm love to grow my skills daily in frameworks like React, SvelteKit, Svelte but also Vanilla JavaScript, PHP and Java!
-*   🤝  I'm currently looking for a job with the perfect fit
+*   🧠  I'm love to grow my skills daily in frameworks like React, SvelteKit, Svelte but also Vanilla JavaScript, PHP, C# .Net and Java!
 *   ✉️  You can contact me at [magnus@yesweb.se](mailto:magnus@yesweb.se)
 
 ### Skills 

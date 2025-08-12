@@ -18,7 +18,7 @@ My favourite podcast is HTML All The Things - Check them out if you’re interes
 *   🚀  I've previously been working full time for 1.5 years at [EduTechSmart Global AB](https://edutechsmart.com)
     *   I've also contributed 1.5 years as intern at the amazing [Slowfashion website](https://slowfashion.se)
 *   🧠  I'm love to grow my skills daily in frameworks like React, SvelteKit, Svelte but also Vanilla JavaScript, PHP, C# .Net and Java!
-*   ✉️  You can contact me at [magnus@yesweb.se](mailto:magnus@yesweb.se)
+*   ✉️  You can contact me at [magnus.karstrom@comerit.se](mailto:magnus.karstrom@comerit.se)
 
 ### Skills 
 <p align="left">
